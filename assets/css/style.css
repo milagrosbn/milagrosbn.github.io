@@ -7,6 +7,27 @@ body{
 
 }
 
-h1{
-    line-height: 100vh;
+.center{
+    text-align: center;
+    color: darkslategray;
+    
+}
+.img-{
+    text-align: center;
+    border: 1px gray solid;
+    border-radius: 15%;
+    
+
+}
+
+.cuerpo{
+    margin: 50px;
+}
+
+.gray{
+    color: darkslategray;
+}
+.img-center{
+    border-radius: 15%;
+    text-align: center;
 }
